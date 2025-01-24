@@ -1,0 +1,288 @@
+Detected labels for images/bat.jpeg:
+Label: Cricket, Confidence: 97.17123413085938
+Label: Cricket Bat, Confidence: 97.17123413085938
+Label: Sport, Confidence: 97.17123413085938
+Label: Brush, Confidence: 89.95346069335938
+Label: Device, Confidence: 89.95346069335938
+Label: Tool, Confidence: 89.95346069335938
+Label: Text, Confidence: 57.617889404296875
+Label: Baseball, Confidence: 56.605316162109375
+Label: Baseball Bat, Confidence: 56.605316162109375
+Label: Toothbrush, Confidence: 55.62928771972656
+Detected labels for images/building.jpg:
+Label: City, Confidence: 99.99976348876953
+Label: Urban, Confidence: 99.7562026977539
+Label: Apartment Building, Confidence: 99.10091400146484
+Label: High Rise, Confidence: 99.10091400146484
+Label: Condo, Confidence: 98.0699234008789
+Label: Office Building, Confidence: 97.38997650146484
+Label: Car, Confidence: 94.6288833618164
+Label: Person, Confidence: 94.62825012207031
+Label: Building Complex, Confidence: 84.560546875
+Label: Traffic Light, Confidence: 83.05587768554688
+Detected labels for images/cat.jpeg:
+Label: Animal, Confidence: 99.74176025390625
+Label: Cat, Confidence: 99.74176025390625
+Label: Kitten, Confidence: 99.74176025390625
+Label: Mammal, Confidence: 99.74176025390625
+Label: Pet, Confidence: 99.74176025390625
+Label: Manx, Confidence: 74.72610473632812
+Label: Abyssinian, Confidence: 57.08237838745117
+Detected labels for images/glass.jpg:
+Label: Glass, Confidence: 100.0
+Label: Cup, Confidence: 97.32669067382812
+Label: Pottery, Confidence: 92.53208923339844
+Label: Jar, Confidence: 92.46160888671875
+Label: Vase, Confidence: 84.11897277832031
+Label: Bottle, Confidence: 78.64208221435547
+Label: Shaker, Confidence: 78.64208221435547
+Label: Beer, Confidence: 55.366397857666016
+Label: Beer Glass, Confidence: 55.366397857666016
+Label: Liquor, Confidence: 55.366397857666016
+Detected labels for images/pants.jpeg:
+Label: Clothing, Confidence: 100.0
+Label: Pants, Confidence: 100.0
+Label: Jeans, Confidence: 94.55681610107422
+Label: Khaki, Confidence: 57.948822021484375
+Detected labels for images/shirts.jpeg:
+Label: Clothing, Confidence: 100.0
+Label: T-Shirt, Confidence: 100.0
+Label: Shirt, Confidence: 99.99915313720703
+Label: Jersey, Confidence: 56.5704231262207
+Label: Sleeve, Confidence: 56.50043487548828
+Detected labels for images/sky.jpeg:
+Label: Nature, Confidence: 100.0
+Label: Outdoors, Confidence: 100.0
+Label: Sky, Confidence: 100.0
+Label: Azure Sky, Confidence: 98.40078735351562
+Label: Horizon, Confidence: 96.12931060791016
+Label: Cloud, Confidence: 66.39663696289062
+Detected labels for images/soccer.jpeg:
+Label: Ball, Confidence: 100.0
+Label: Football, Confidence: 100.0
+Label: Soccer, Confidence: 100.0
+Label: Soccer Ball, Confidence: 100.0
+Label: Sport, Confidence: 100.0
+Label: Sphere, Confidence: 95.52352905273438
+Label: Field, Confidence: 55.31123733520508
+Detected labels for images/stars.jpeg:
+Label: Nature, Confidence: 99.99957275390625
+Label: Night, Confidence: 99.99957275390625
+Label: Outdoors, Confidence: 99.99957275390625
+Label: Flare, Confidence: 99.99400329589844
+Label: Light, Confidence: 99.99400329589844
+Label: Starry Sky, Confidence: 99.97891998291016
+Label: Scenery, Confidence: 99.69915008544922
+Label: Landscape, Confidence: 99.66146087646484
+Label: Panoramic, Confidence: 88.91405487060547
+Label: Sky, Confidence: 80.9092788696289
+Detected labels for images/trees.jpeg:
+Label: Oak, Confidence: 100.0
+Label: Plant, Confidence: 100.0
+Label: Tree, Confidence: 100.0
+Label: Sycamore, Confidence: 99.99995422363281
+Label: Grass, Confidence: 97.1047592163086
+Label: Tree Trunk, Confidence: 96.56250762939453
+Label: Nature, Confidence: 57.740718841552734
+Label: Outdoors, Confidence: 57.740718841552734
+Label: Park, Confidence: 57.740718841552734
+Label: Landscape, Confidence: 55.98727035522461
+Detected labels for images/umbrella.jpeg:
+Label: Canopy, Confidence: 99.99861907958984
+Label: Umbrella, Confidence: 99.98873138427734
+Label: Animal, Confidence: 71.1216812133789
+Label: Fish, Confidence: 71.1216812133789
+Label: Sea Life, Confidence: 71.1216812133789
+Label: Shark, Confidence: 71.1216812133789
+Detected labels for images/bat.jpeg:
+Label: Cricket, Confidence: 97.17123413085938
+Label: Cricket Bat, Confidence: 97.17123413085938
+Label: Sport, Confidence: 97.17123413085938
+Label: Brush, Confidence: 89.95346069335938
+Label: Device, Confidence: 89.95346069335938
+Label: Tool, Confidence: 89.95346069335938
+Label: Text, Confidence: 57.617889404296875
+Label: Baseball, Confidence: 56.605316162109375
+Label: Baseball Bat, Confidence: 56.605316162109375
+Label: Toothbrush, Confidence: 55.62928771972656
+Detected labels for images/building.jpg:
+Label: City, Confidence: 99.99976348876953
+Label: Urban, Confidence: 99.7562026977539
+Label: Apartment Building, Confidence: 99.10091400146484
+Label: High Rise, Confidence: 99.10091400146484
+Label: Condo, Confidence: 98.0699234008789
+Label: Office Building, Confidence: 97.38997650146484
+Label: Car, Confidence: 94.6288833618164
+Label: Person, Confidence: 94.62825012207031
+Label: Building Complex, Confidence: 84.560546875
+Label: Traffic Light, Confidence: 83.05587768554688
+Detected labels for images/cat.jpeg:
+Label: Animal, Confidence: 99.74176025390625
+Label: Cat, Confidence: 99.74176025390625
+Label: Kitten, Confidence: 99.74176025390625
+Label: Mammal, Confidence: 99.74176025390625
+Label: Pet, Confidence: 99.74176025390625
+Label: Manx, Confidence: 74.72610473632812
+Label: Abyssinian, Confidence: 57.08237838745117
+Detected labels for images/glass.jpg:
+Label: Glass, Confidence: 100.0
+Label: Cup, Confidence: 97.32669067382812
+Label: Pottery, Confidence: 92.53208923339844
+Label: Jar, Confidence: 92.46160888671875
+Label: Vase, Confidence: 84.11897277832031
+Label: Bottle, Confidence: 78.64208221435547
+Label: Shaker, Confidence: 78.64208221435547
+Label: Beer, Confidence: 55.366397857666016
+Label: Beer Glass, Confidence: 55.366397857666016
+Label: Liquor, Confidence: 55.366397857666016
+Detected labels for images/pants.jpeg:
+Label: Clothing, Confidence: 100.0
+Label: Pants, Confidence: 100.0
+Label: Jeans, Confidence: 94.55681610107422
+Label: Khaki, Confidence: 57.948822021484375
+Detected labels for images/shirts.jpeg:
+Label: Clothing, Confidence: 100.0
+Label: T-Shirt, Confidence: 100.0
+Label: Shirt, Confidence: 99.99915313720703
+Label: Jersey, Confidence: 56.5704231262207
+Label: Sleeve, Confidence: 56.50043487548828
+Detected labels for images/sky.jpeg:
+Label: Nature, Confidence: 100.0
+Label: Outdoors, Confidence: 100.0
+Label: Sky, Confidence: 100.0
+Label: Azure Sky, Confidence: 98.40078735351562
+Label: Horizon, Confidence: 96.12931060791016
+Label: Cloud, Confidence: 66.39663696289062
+Detected labels for images/soccer.jpeg:
+Label: Ball, Confidence: 100.0
+Label: Football, Confidence: 100.0
+Label: Soccer, Confidence: 100.0
+Label: Soccer Ball, Confidence: 100.0
+Label: Sport, Confidence: 100.0
+Label: Sphere, Confidence: 95.52352905273438
+Label: Field, Confidence: 55.31123733520508
+Detected labels for images/stars.jpeg:
+Label: Nature, Confidence: 99.99957275390625
+Label: Night, Confidence: 99.99957275390625
+Label: Outdoors, Confidence: 99.99957275390625
+Label: Flare, Confidence: 99.99400329589844
+Label: Light, Confidence: 99.99400329589844
+Label: Starry Sky, Confidence: 99.97891998291016
+Label: Scenery, Confidence: 99.69915008544922
+Label: Landscape, Confidence: 99.66146087646484
+Label: Panoramic, Confidence: 88.91405487060547
+Label: Sky, Confidence: 80.9092788696289
+Detected labels for images/trees.jpeg:
+Label: Oak, Confidence: 100.0
+Label: Plant, Confidence: 100.0
+Label: Tree, Confidence: 100.0
+Label: Sycamore, Confidence: 99.99995422363281
+Label: Grass, Confidence: 97.1047592163086
+Label: Tree Trunk, Confidence: 96.56250762939453
+Label: Nature, Confidence: 57.740718841552734
+Label: Outdoors, Confidence: 57.740718841552734
+Label: Park, Confidence: 57.740718841552734
+Label: Landscape, Confidence: 55.98727035522461
+Detected labels for images/umbrella.jpeg:
+Label: Canopy, Confidence: 99.99861907958984
+Label: Umbrella, Confidence: 99.98873138427734
+Label: Animal, Confidence: 71.1216812133789
+Label: Fish, Confidence: 71.1216812133789
+Label: Sea Life, Confidence: 71.1216812133789
+Label: Shark, Confidence: 71.1216812133789
+Detected labels for images/bat.jpeg:
+Label: Cricket, Confidence: 97.17123413085938
+Label: Cricket Bat, Confidence: 97.17123413085938
+Label: Sport, Confidence: 97.17123413085938
+Label: Brush, Confidence: 89.95346069335938
+Label: Device, Confidence: 89.95346069335938
+Label: Tool, Confidence: 89.95346069335938
+Label: Text, Confidence: 57.617889404296875
+Label: Baseball, Confidence: 56.605316162109375
+Label: Baseball Bat, Confidence: 56.605316162109375
+Label: Toothbrush, Confidence: 55.62928771972656
+Detected labels for images/building.jpg:
+Label: City, Confidence: 99.99976348876953
+Label: Urban, Confidence: 99.7562026977539
+Label: Apartment Building, Confidence: 99.10091400146484
+Label: High Rise, Confidence: 99.10091400146484
+Label: Condo, Confidence: 98.0699234008789
+Label: Office Building, Confidence: 97.38997650146484
+Label: Car, Confidence: 94.6288833618164
+Label: Person, Confidence: 94.62825012207031
+Label: Building Complex, Confidence: 84.560546875
+Label: Traffic Light, Confidence: 83.05587768554688
+Detected labels for images/cat.jpeg:
+Label: Animal, Confidence: 99.74176025390625
+Label: Cat, Confidence: 99.74176025390625
+Label: Kitten, Confidence: 99.74176025390625
+Label: Mammal, Confidence: 99.74176025390625
+Label: Pet, Confidence: 99.74176025390625
+Label: Manx, Confidence: 74.72610473632812
+Label: Abyssinian, Confidence: 57.08237838745117
+Detected labels for images/glass.jpg:
+Label: Glass, Confidence: 100.0
+Label: Cup, Confidence: 97.32669067382812
+Label: Pottery, Confidence: 92.53208923339844
+Label: Jar, Confidence: 92.46160888671875
+Label: Vase, Confidence: 84.11897277832031
+Label: Bottle, Confidence: 78.64208221435547
+Label: Shaker, Confidence: 78.64208221435547
+Label: Beer, Confidence: 55.366397857666016
+Label: Beer Glass, Confidence: 55.366397857666016
+Label: Liquor, Confidence: 55.366397857666016
+Detected labels for images/pants.jpeg:
+Label: Clothing, Confidence: 100.0
+Label: Pants, Confidence: 100.0
+Label: Jeans, Confidence: 94.55681610107422
+Label: Khaki, Confidence: 57.948822021484375
+Detected labels for images/shirts.jpeg:
+Label: Clothing, Confidence: 100.0
+Label: T-Shirt, Confidence: 100.0
+Label: Shirt, Confidence: 99.99915313720703
+Label: Jersey, Confidence: 56.5704231262207
+Label: Sleeve, Confidence: 56.50043487548828
+Detected labels for images/sky.jpeg:
+Label: Nature, Confidence: 100.0
+Label: Outdoors, Confidence: 100.0
+Label: Sky, Confidence: 100.0
+Label: Azure Sky, Confidence: 98.40078735351562
+Label: Horizon, Confidence: 96.12931060791016
+Label: Cloud, Confidence: 66.39663696289062
+Detected labels for images/soccer.jpeg:
+Label: Ball, Confidence: 100.0
+Label: Football, Confidence: 100.0
+Label: Soccer, Confidence: 100.0
+Label: Soccer Ball, Confidence: 100.0
+Label: Sport, Confidence: 100.0
+Label: Sphere, Confidence: 95.52352905273438
+Label: Field, Confidence: 55.31123733520508
+Detected labels for images/stars.jpeg:
+Label: Nature, Confidence: 99.99957275390625
+Label: Night, Confidence: 99.99957275390625
+Label: Outdoors, Confidence: 99.99957275390625
+Label: Flare, Confidence: 99.99400329589844
+Label: Light, Confidence: 99.99400329589844
+Label: Starry Sky, Confidence: 99.97891998291016
+Label: Scenery, Confidence: 99.69915008544922
+Label: Landscape, Confidence: 99.66146087646484
+Label: Panoramic, Confidence: 88.91405487060547
+Label: Sky, Confidence: 80.9092788696289
+Detected labels for images/trees.jpeg:
+Label: Oak, Confidence: 100.0
+Label: Plant, Confidence: 100.0
+Label: Tree, Confidence: 100.0
+Label: Sycamore, Confidence: 99.99995422363281
+Label: Grass, Confidence: 97.1047592163086
+Label: Tree Trunk, Confidence: 96.56250762939453
+Label: Nature, Confidence: 57.740718841552734
+Label: Outdoors, Confidence: 57.740718841552734
+Label: Park, Confidence: 57.740718841552734
+Label: Landscape, Confidence: 55.98727035522461
+Detected labels for images/umbrella.jpeg:
+Label: Canopy, Confidence: 99.99861907958984
+Label: Umbrella, Confidence: 99.98873138427734
+Label: Animal, Confidence: 71.1216812133789
+Label: Fish, Confidence: 71.1216812133789
+Label: Sea Life, Confidence: 71.1216812133789
+Label: Shark, Confidence: 71.1216812133789

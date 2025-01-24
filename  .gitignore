@@ -1,0 +1,11 @@
+# To Ignore Python cache
+__pycache__/
+*.pyc
+
+# To Ignore AWS credentials
+*.env
+.aws/
+
+# To gnore outputs and logs
+output/
+*.log
