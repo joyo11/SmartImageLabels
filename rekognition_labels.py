@@ -1,4 +1,5 @@
 # Copyright (c) 2025 Mohammad Shafay Joyo
+# Main Python file
 
 import boto3
 import matplotlib.pyplot as plt
@@ -8,7 +9,7 @@ from io import BytesIO
 import os
 import csv
 
-# Ensuring the output folder exists
+# Ensuring that the output folder exists
 if not os.path.exists('output'):
     os.makedirs('output')
 
